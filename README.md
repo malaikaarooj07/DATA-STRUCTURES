@@ -1,1 +1,2 @@
 # DATA-STRUCTURES
+Data Structures focuses on organizing and managing data efficiently to optimize program performance. The course covers fundamental structures such as arrays, linked lists, stacks, queues, trees, and graphs. It also introduces searching and sorting algorithms for efficient data processing. This foundation helps in solving complex problems and developing optimized software applications.
